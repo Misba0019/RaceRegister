@@ -1,0 +1,104 @@
+/* General body styling */
+body {
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    background-color: rgb(140, 141, 214);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for the main heading */
+h1 {
+    font-family: "Noto Serif Display", serif;
+    font-size: 2.5em;
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Styling for the form container */
+form {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Styling for input fields and labels */
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* Styling for text, email, and password input fields */
+input[type="text"], /* This targets all text input fields */
+input[type="email"], /* This targets all email input fields */
+input[type="password"] { /* This targets all password input fields */
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+/* Styling for radio buttons */
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+/* Styling for the select element */
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+/* Styling for the submit button */
+button {
+    background-color: #090783;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+button:hover {
+    background-color: #020c2d;
+}
+
+/* Styling for the race selection section */
+div.select-race {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* Styling for the form sections */
+div.name,
+div.login,
+div.age-select {
+    margin-bottom: 15px;
+}
+
+
+/* body {
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    background-color: rgb(137, 181, 226);
+    text-align: center;
+}
+
+div.select-race {
+    margin-top: 15px;
+    margin-bottom: 15px;
+} */
+

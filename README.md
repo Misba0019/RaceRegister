@@ -1,7 +1,7 @@
 # Race Registration Form
 ## Overview
-
 This project is a simple race registration form built using HTML and CSS. The form allows users to register for different types of races, provide their personal information, and select their age group.
+
 ---
 **Please note: This is a demo form and not intended for actual race registration.**
 

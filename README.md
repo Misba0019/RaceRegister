@@ -27,7 +27,7 @@ To get started:
 1. **Fork** the repo.
 
 2. **Clone** your forked repository:  
-   `git clone https://github.com/Misba0019/race_registration_form.git`
+   `git clone https://github.com/Misba0019/race_registration_form.git`  
    `cd repo-name`
 
 3. **Create** a new branch:  

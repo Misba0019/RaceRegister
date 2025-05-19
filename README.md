@@ -27,11 +27,11 @@ To get started:
 1. **Fork** the repo.
 
 2. **Clone** your forked repository:  
-   `git clone https://github.com/your-username/repo-name.git`
+   `git clone https://github.com/Misba0019/race_registration_form.git`
    `cd repo-name`
 
 3. **Create** a new branch:  
-   `git checkout -b your-branch-name`
+   `git checkout -b feature-name`
 
 4. **Make** your changes.
 
@@ -39,10 +39,10 @@ To get started:
    `git add .`
 
 4. **Commit** your changes:  
-   `git commit -m "Add [short description of the change]"`
+   `git commit -m "Add feature"`
 
 5. **Push** to your fork:  
-   `git push origin your-branch-name`
+   `git push origin feature-name`
 
 6. **Create** a Pull Request.
 

@@ -1,4 +1,5 @@
 # Race Registration Form
+
 ## Overview
 
 This project is a simple race registration form built using HTML and CSS. The form allows users to register for different types of races, provide their personal information, and select their age group. \
@@ -15,6 +16,37 @@ This project is a simple race registration form built using HTML and CSS. The fo
 
 1. Clone the repository to your local machine.
 2. Open `race_registeration_form.html` in your web browser to view and interact with the form.
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.  
+
+To get started:
+
+1. **Fork** the repo.
+
+2. **Clone** your forked repository:  
+   `git clone https://github.com/your-username/repo-name.git`
+   `cd repo-name`
+
+3. **Create** a new branch:  
+   `git checkout -b your-branch-name`
+
+4. **Make** your changes.
+
+5. **Stage** your changes:  
+   `git add .`
+
+4. **Commit** your changes:  
+   `git commit -m "Add [short description of the change]"`
+
+5. **Push** to your fork:  
+   `git push origin your-branch-name`
+
+6. **Create** a Pull Request.
+
+Please ensure your code follows the existing style and includes clear, descriptive commit messages.  
+Thank you for your contribution! 🤍
 
 ## License
 

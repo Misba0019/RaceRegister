@@ -23,12 +23,11 @@ This project is a simple race registration form built using HTML and CSS. The fo
 Contributions are welcome! Feel free to fork the repository and submit a pull request.  
 
 To get started:
-
 1. **Fork** the repo.
 
 2. **Clone** your forked repository:  
    `git clone https://github.com/Misba0019/race_registration_form.git`  
-   `cd repo-name`
+   `cd race_registration_form`
 
 3. **Create** a new branch:  
    `git checkout -b feature-name`
@@ -44,7 +43,15 @@ To get started:
 5. **Push** to your fork:  
    `git push origin feature-name`
 
-6. **Create** a Pull Request.
+6. **Create** a Pull Request:  
+   - Navigate to your forked repository on GitHub.
+
+   - Click on the "Compare & pull request" button.
+
+   - Provide a clear title and description for your pull request.
+
+   - Submit the pull request to the original repository
+
 
 Please ensure your code follows the existing style and includes clear, descriptive commit messages.  
 Thank you for your contribution! 🤍

@@ -13,6 +13,12 @@ This project is a simple race registration form built using HTML and CSS. The fo
 - **Race Selection**: Users can select from three types of races: Fun Run 5k, Half Marathon, and Full Marathon.
 - **Age Group Selection**: Users can select their age group from a dropdown menu.
 
+## Technologies Used
+
+- **HTML5**: For the structure of the form.
+- **CSS3**: For styling and layout.
+- **Google Fonts**: For custom font styles.
+
 ## Usage
 
 1. Clone the repository to your local machine.
@@ -50,11 +56,16 @@ To get started:
 
    - Provide a clear title and description for your pull request.
 
-   - Submit the pull request to the original repository
+   - Submit the pull request to the original repository.
 
 
 Please ensure your code follows the existing style and includes clear, descriptive commit messages.  
 Thank you for your contribution! 🤍
+
+## Credits
+
+- [Google Fonts](https://fonts.google.com/) for font resources.
+- Inspired by various online form design tutorials and resources.
 
 ## License
 

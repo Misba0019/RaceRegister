@@ -1,4 +1,4 @@
-# RaceRegister
+# 🏁 RaceRegister
 
 A sleek and responsive race registration form built with HTML and CSS. Users can select race types, provide personal information, and choose an age group — all within a clean, accessible layout.
 
@@ -15,25 +15,24 @@ A sleek and responsive race registration form built with HTML and CSS. Users can
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Project Overview
 
-- **HTML5** - Structure of the form.
-- **CSS3** - Styling, layout and responsiveness.
-- **Google Fonts** - For clean, modern typography
+![RaceRegister Screenshot](./assets/RaceRegister.png)
 
 ---
 
-## 📸 Screenshot
+## 🛠️ Tech Stack
 
-### 🌟 Project Overview
-![RaceRegister Screenshot](./assets/RaceRegister.png)
+- **HTML5** - Structure of the form
+- **CSS3** - Styling, layout and responsiveness
+- **Google Fonts** - For clean, modern typography
 
 ---
 
 ## 🚀 Getting Started
 
 1. Clone the repository to your local machine.
-2. Open `race_registeration_form.html` in your web browser to view and interact with the form.
+2. Open `index.html` in your web browser to view and interact with the form.
 
 ---
 
